@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##gif 
-<img src ="https://giphy.com/explore/office" width="256" \>
+<img src ="<iframe src="https://giphy.com/embed/n4oKYFlAcv2AU" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/n4oKYFlAcv2AU">via GIPHY</a></p>" width="256" \>
