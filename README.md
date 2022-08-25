@@ -9,16 +9,12 @@
 ```
 - 📫 How to reach me: emreeyilmaz567@gmail.com
 
-<p align="center">
-    <img width="500" src="https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/stats?cursusId=21&coalitionId=231" alt="42 stats">
-</p>
+[![emyilmaz's 42 stats](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/stats?cursusId=21&coalitionId=231)](https://github.com/JaeSeoKim/badge42) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spacerunn&theme=blue-green)
+
 
 <p align="center">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacerunn&theme=blue-green" alt="Random joke">
-</p>
-
-<p align="center">
-    <img width="200" src="https://readme-jokes.vercel.app/api" alt="Random joke">
+    <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke">
 </p>
 
 <p align="center">
