@@ -14,12 +14,10 @@
 
 
 <p align="center">
-    <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke">
-</p>
+    <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke"></p>
 
 <p align="center">
-    <img width="150" src="https://komarev.com/ghpvc/?username=spacerunn" alt="Profil wievers">
-</p>
+    <img width="150" src="https://komarev.com/ghpvc/?username=spacerunn" alt="Profil wievers"></p>
 
 
 |			Finished				| Description	| Projects |
