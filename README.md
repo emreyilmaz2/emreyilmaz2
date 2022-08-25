@@ -17,7 +17,6 @@
 <p align="center">
     <img width="150" src="https://komarev.com/ghpvc/?username=spacerunn" alt="Profil wievers">
 </p>
-
 |			Finished				| Description	| Projects |
 |:---------------:|:-----------:|:----:|
 [libft (circle 0)](https://github.com/emreyilmaz42/libft.git) | The goal of this project is to create your own C library| [![emyilmaz's 42 libft Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2542014)](https://projects.intra.42.fr/42cursus-libft/mine) |
