@@ -34,3 +34,6 @@
 [so_long (circle 2)](https://github.com/spacerunn/so_long.git) | Let's make a little and cute 2D game| [![emyilmaz's 42 so_long Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2742308)](https://projects.intra.42.fr/so_long/mine) |
 [push_swap (circle 2)](https://github.com/spacerunn/push_swap.git) | Code the program that sorts the numbers we give it| [![emyilmaz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2746589)](https://projects.intra.42.fr/42cursus-push_swap/mine) |
 [exam rank 02](https://projects.intra.42.fr/exam-rank-02/mine) |you need to success this exam for jump to circle 3 from circle 2| [![emyilmaz's exam Score](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/project/2706815)](https://projects.intra.42.fr/exam-rank-02/mine) |
+
+  <p align="center"><img src="https://github.com/Tunarwn/Tunarwn/blob/main/snake.svg"></p>
+</p>
