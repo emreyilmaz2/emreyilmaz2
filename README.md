@@ -9,9 +9,6 @@
 ```
 - 📫 How to reach me: emreeyilmaz567@gmail.com
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=emreyilmaz2&show_icons=true&theme=tokyonight" /> <img width="48%"        src="https://github-readme-streak-stats.herokuapp.com/?user=emreyilmaz2&theme=tokyonight" />
-
 [![emyilmaz's 42 stats](https://badge42.vercel.app/api/v2/cl77m2j0n00110gmnsgi933ap/stats?cursusId=21&coalitionId=231)](https://github.com/JaeSeoKim/badge42) 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emreyilmaz2&theme=blue-green)
 
