@@ -5,7 +5,7 @@
 
 - I'm also student at Kocaeli University as a computer engineer
 
-+ I‘m currently learning C
++ I‘m currently learning C and Java
 ```
 - 📫 How to reach me: emreeyilmaz567@gmail.com
 
