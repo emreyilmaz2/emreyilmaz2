@@ -7,7 +7,6 @@
 
 + I‘m currently learning C, C++ and Java
 ```
-- 📫 How to reach me: emreeyilmaz567@gmail.com
 
 <p align="center">
     <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke"></p>
