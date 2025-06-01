@@ -6,13 +6,19 @@
   </tr>
 </table>
 
-```diff
-- 🔭 I’m student at Ecole 42 in Kocaeli
+### 👋 Hi there, I'm Emre Yılmaz
 
-- I'm also student at Kocaeli University as a computer engineer
+- 🧑‍🎓 Final-year Computer Engineering student at Kocaeli University ('25)
+- 🧠 42 Kocaeli **common core graduate**, continuing with advanced projects
+- 💻 Backend experience with Go and Django; used Docker, GraphQL & CI/CD tools
+- 🧪 Research Topic: *AI-Based In-Vehicle Driver Attention Detection System*
 
-+ I‘m currently learning C, C++ and Java
-```
+### 🧩 Technologies & Tools
 
+`Python` `Golang` `C` `C++` `JavaScript`  `Django` `Django REST Framework` `FastAPI` `GraphQL`  
+`React` `HTML` `CSS`  `PostgreSQL` `MongoDB` `SQLite`  `Docker` `docker-compose` `GitHub Actions` `CI/CD`  
+`Linux` `Shell` `Socket Programming` `Virtual Machines` `Networking Tools`  `Git` `Makefile` `VSCode` `Vim` `Tmux`
+
+## 📬 [Reach out](mailto:emreeyilmaz567@gmail.com)
 <p align="center">
     <img width="300" src="https://readme-jokes.vercel.app/api" alt="Random joke"></p>
